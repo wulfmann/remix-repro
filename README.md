@@ -8,6 +8,11 @@ This repo is an unmodified build using the basic remix run app. Here are the opt
 ? Do you want me to run `npm install`? Yes
 ```
 
+```
+node -v
+v19.1.0
+```
+
 Running `npm run dev` shows this in the console:
 
 ![console screenshot](https://github.com/wulfmann/remix-repro/blob/master/remix-repro-console-screenshot.png)
