@@ -12,7 +12,7 @@ Running `npm run dev` shows this in the console:
 
 ![console screenshot](https://github.com/wulfmann/remix-repro/blob/master/remix-repro-console-screenshot.png)
 
-I've attached a download of the console in []().
+I've attached a download of the console in [localhost-1675992116202.log](https://github.com/wulfmann/remix-repro/blob/master/localhost-1675992116202.log).
 
 # Welcome to Remix!
 
