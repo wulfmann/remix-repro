@@ -10,6 +10,8 @@ This repo is an unmodified build using the basic remix run app. Here are the opt
 
 Running `npm run dev` shows this in the console:
 
+![console screenshot](https://github.com/wulfmann/remix-repro/blob/master/remix-repro-console-screenshot.png)
+
 I've attached a download of the console in []().
 
 # Welcome to Remix!
